@@ -9,3 +9,11 @@ Note: Population data in 1981 and before are household registration statistics; 
 Source: National Bureau of Statistics.
 
 Data - https://www.kaggle.com/datasets/concyclics/chinas-population-by-gender-and-urbanrural?select=Chinas+Population+En.csv
+
+### Preview
+
+![Alt Text](images/female_population.png)
+![Alt Text](images/male_population.png)
+![Alt Text](images/total_population.png)
+![Alt Text](images/urban_rural.png)
+![Alt Text](images/population_distribution.png)
